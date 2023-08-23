@@ -92,7 +92,7 @@ $(function() {
         }
     })
 });
-function phimnew(data) {
+function myjav4k(data) {
     var posturl, posttitle, thumburl, skeleton = "", entry = data.feed.entry;
     if (entry !== undefined) {
         skeleton = "<ul class='l_w_l'>";
